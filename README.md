@@ -7,3 +7,4 @@ CLIENT_SECRET = None
 
 To obtain the client ID and secret, the user must create an app in the Spotify for developers' website after logging in with the account they want to analyze.
 ![image](https://github.com/nasir-syed/Personal-Spotify-Dashboard/assets/172494217/deaf2e82-8e26-4343-84da-a5dac713a656)
+![image](https://github.com/nasir-syed/Personal-Spotify-Dashboard/assets/172494217/b23510a2-196f-46a8-b649-076bf8953d58)
