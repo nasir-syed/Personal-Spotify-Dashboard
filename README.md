@@ -14,4 +14,5 @@ After doing so, they can go to the settings to find both.
 After obtaining the client ID and secret, replace the variables with the actual value as a string.
 
 The script is run using the following command in the terminal:
+
 streamlit run <filepath> --server.headless True
