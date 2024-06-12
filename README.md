@@ -10,6 +10,7 @@ To obtain the client ID and secret, the user must create an app in the Spotify f
 After doing so, they can go to the settings to find both.
 
 ![image](https://github.com/nasir-syed/Personal-Spotify-Dashboard/assets/172494217/deaf2e82-8e26-4343-84da-a5dac713a656)
+
 ![image](https://github.com/nasir-syed/Personal-Spotify-Dashboard/assets/172494217/b23510a2-196f-46a8-b649-076bf8953d58)
 
 After obtaining the client ID and secret, replace the variables with the actual value as a string.
